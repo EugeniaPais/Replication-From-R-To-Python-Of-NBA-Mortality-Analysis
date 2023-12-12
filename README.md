@@ -1,6 +1,6 @@
 # replica-nba-mortality-analysis
 
-The code was developed as part of an academic project, serving as a Python-based replication of the work detailed in the following article (originally made with R): 
+The code was developed as part of an academic project, serving as a Python-based replication of the work detailed in the following article (originally implemented with R): 
 
 "Jose A. Martínez, Klaus Langohr, Julián Felipo, Luciano Consuegra, Martí Casals,
 Data set on mortality of national basketball association (NBA) players,
